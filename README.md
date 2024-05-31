@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# 🍀Friend
+![main](https://github.com/chr0405/js_counter/assets/129362281/022d3f4f-20e6-43eb-817e-09cb90a47ee1)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
