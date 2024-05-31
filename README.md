@@ -1,7 +1,7 @@
 # 🍀Friend
 ![main](https://github.com/chr0405/js_counter/assets/129362281/022d3f4f-20e6-43eb-817e-09cb90a47ee1)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+당신의 'FRIEND'를 만나보세요!
+지인 매칭 100% 방지와 개인정보 노출 부담 없는 교내 매칭 서비스
 
 ## Available Scripts
 
