@@ -26,13 +26,13 @@ youtube : [youTube](https://www.youtube.com/watch?v=jvkPfVLO6fc&t=19s)
 * **디자이너**\
   제노니스 / 박성연
   
-* **Front-end**
+* **Front-end**\
 **팀장** 이매 / 조하림\
 다니 / 김예진\
 린주 / 노준일\
 도율 / 정현진
 
-* **Back-end**
+* **Back-end**\
 **팀장** 난초 / 최민석\
 크리스 / 채정훈\
 베리 / 배재영\
