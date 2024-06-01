@@ -11,8 +11,8 @@ Friend를 한 마디로 소개하자면 "지인 매칭 100% 방지와 개인 정
 
 ## 💚Demo
 
-Web site : [demoSite](dev--rococo-dragon-c69f42.netlify.app/)\
-youtube : [youTube](https://www.youtube.com/watch?v=jvkPfVLO6fc&t=19s)
+Web site : [dev--rococo-dragon-c69f42.netlify.app/](dev--rococo-dragon-c69f42.netlify.app/)\
+youtube : [시연 연상](https://www.youtube.com/watch?v=jvkPfVLO6fc&t=19s)
 
 ## 🧪개발 기간
 
