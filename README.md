@@ -39,4 +39,4 @@ youtube : [시연 연상](https://www.youtube.com/watch?v=jvkPfVLO6fc)
 호야 / 이준호
 
 * **Front-end 회의록**\
-<a href="https://bottlenose-barberry-5ba.notion.site/Friend-FE-489356d3cfff48a5ad3682515a3e5a7f?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
+<a href="https://bottlenose-barberry-5ba.notion.site/Friend-FE-489356d3cfff48a5ad3682515a3e5a7f?pvs=4"><img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
