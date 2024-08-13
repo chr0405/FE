@@ -49,3 +49,71 @@ youtube : [시연 연상](https://www.youtube.com/watch?v=jvkPfVLO6fc)
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </p>
+
+## 📚파일 구조
+```
+📁src
+  ├── 📁components
+  │   ├── 📁Board  # 
+  │   ├── 📁CircleCheckbox  # 
+  │   ├── 📁footer  # 
+  │   ├── 📁header  # 
+  │   ├── 📁ImageBox  # 
+  │   ├── 📁JudgePage  # 
+  │   ├── 📁LimitInputForm  # 
+  │   ├── 📁ManagerPage_Component  # 마이페이지에서 방문할 수 있는 사이트
+  │   ├── 📁MyPage_Component  # 
+  │   ├── 📁PersonBlock  # 회원 블록
+  │   │   ├──JoinPersonBlock.jsx  # 회원 가입 신청 내역 모아보기 등에 필요한 회원 블록
+  │   │   ├──MatchingPersonBlock.jsx  # 매칭 신청 내역 모아보기에 필요한 회원 블록
+  │   │   └──MemberPersonBlock.jsx  # 회원 목록 보기에 필요한 회원 블록
+  │   ├── 📁title
+  │   │   └──index.jsx  # 타이틀
+  ├── 📁images  # 이미지 파일 저장 디렉토리
+  ├── 📁pages
+  │   ├── 📁ApplicationForMembership  # 관리자 페이지 - 회원 가입 신청
+  │   │   ├──ApplicationForMembership.jsx  # 관리자 페이지 - 회원 가입 신청 내역 보기
+  │   │   └──ApplicationForMembershipDetail.jsx  # 관리자 페이지 - 회원 가입 신청 내용 자세히 보기
+  │   ├── 📁Certify   # 회원가입
+  │   │   ├──CertifyBeginning.jsx  # 회원가입
+  │   │   ├──CertifyEmail.jsx  # 부경대 학생 인증 - 1
+  │   │   └──CertifyEnd.jsx  # 부경대 학생 인증 - 2
+  │   ├── 📁FindAccount   # 계정 찾기
+  │   │   ├──FindID.jsx  # 아이디 찾기
+  │   │   └──FindPassword.jsx  # 비밀번호 찾기
+  │   ├── 📁Login   
+  │   │   └──Login.jsx  # 로그인
+  │   ├── 📁Main  
+  │   │   └──MainPage.jsx  # 메인 페이지
+  │   ├── 📁MatchApply  
+  │   │   └──Apply.jsx  # 매칭신청, 매칭신청 완료 팝업
+  │   ├── 📁Notice   # 공지사항
+  │   │   ├──DeleteModal.jsx  # (관리자용) 공지사항 삭제 모달
+  │   │   ├──ManagerNoticeDetail.jsx  # (관리자용) 공지사항 - 자세히
+  │   │   ├──ModifyModal.jsx  # (관리자용) 공지사항 수정 모달
+  │   │   ├──ModifyNotice.jsx  # (관리자용) 공지사항 수정 페이지
+  │   │   ├──notice.jsx  # 공지사항 페이지
+  │   │   └──NoticeDetail.jsx  # (이용자용) 공지사항 - 자세히
+  │   ├── 📁QnA   
+  │   │   ├──qna.jsx  # Q&A (이용자가 헤더에서 접근)
+  │   │   ├──qnaDetail.jsx  # Q&A - 자세히
+  │   │   └──qnaWrite.jsx  # Q&A - 글 작성 (이용자가 질문 남기는 경우)
+  │   ├── 📁Report   
+  │   │   └──report.jsx  # 비매너 유저 신고하기 - 더 자세한 신고 내용 입력
+  │   ├── 📁Review
+  │   │   ├──review.jsx  # 솔직후기
+  │   │   ├──ReviewDetail.jsx  # 솔직후기 - 자세히
+  │   │   └──write.jsx  # 솔직후기 작성
+  │   └── 📁Signup
+  │   │   ├──review.jsx  # 솔직후기
+  │   │   ├──ReviewDetail.jsx  # 솔직후기 - 자세히
+  │   │   └──write.jsx  # 솔직후기 작성
+  ├── 📁REDUX
+  │   ├── ProfileImage.js  # 회원가입 - 3 프로필 이미지 삽입
+  │   ├── SignupInfo.js  # 회원가입 - 1 양식 작성
+  │   ├── SignupTerms.js  # 회원가입 - 2 동의서
+  │   └── store.js
+  ├── 📁styles
+  │   └── font.css  # 기본 폰트 설정
+  └── App.tsx  # 메인 App 컴포넌트
+```
