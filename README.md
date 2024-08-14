@@ -145,13 +145,13 @@ youtube : [시연 연상](https://www.youtube.com/watch?v=jvkPfVLO6fc)
   │   │   ├──ReviewDetail.jsx  # 솔직후기 - 자세히
   │   │   └──write.jsx  # 솔직후기 작성
   │   └── 📁Signup
-  │   │   ├──review.jsx  # 솔직후기
-  │   │   ├──ReviewDetail.jsx  # 솔직후기 - 자세히
-  │   │   └──write.jsx  # 솔직후기 작성
+  │   │   ├──ProfileImage.jsx  # 회원가입 - 3 프로필 이미지 삽입
+  │   │   ├──SignupInfo.jsx  # 회원가입 - 1 양식 작성
+  │   │   └──SignupTerms.jsx  # 회원가입 - 2 동의서
   ├── 📁REDUX
-  │   ├── ProfileImage.js  # 회원가입 - 3 프로필 이미지 삽입
-  │   ├── SignupInfo.js  # 회원가입 - 1 양식 작성
-  │   ├── SignupTerms.js  # 회원가입 - 2 동의서
+  │   ├── emailCheck.js  # 이메일 정보 저장
+  │   ├── loginCheck.js  # 로그인 정보 저장
+  │   ├── matchingCheck.js  # 매칭 정보 저장
   │   └── store.js
   ├── 📁styles
   │   └── font.css  # 기본 폰트 설정
